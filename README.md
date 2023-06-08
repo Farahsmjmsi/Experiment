@@ -1,5 +1,6 @@
 # Experiment
 #Table 1
+
 import matplotlib.pyplot as plt
 import pandas as pd
 data={'mg':[500,200,300,600,150,400],'t10':[6.07,4.54,4.88,7.06,3.72,5.25]} 
